@@ -1,4 +1,4 @@
-# Readme generator
+# E-Commerce Backend Coding
 
   ## Table of Contents
   - [Project description](#description)
@@ -26,8 +26,7 @@ This is a program used to Update a E-commerce Database, with the ability to Add,
  Daniel Prussia
 
   ## Questions
-  contact me Dbp1795@aim.com
-
+  contact me danielprussia1@gmail.com
 
   ## License
   [![License: mit](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
